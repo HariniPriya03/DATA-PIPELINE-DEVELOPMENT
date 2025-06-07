@@ -67,3 +67,6 @@ This ETL pipeline is suitable for preprocessing educational data or similar data
 ## Conclusion
 This project highlights the importance of automating the ETL process using Python and standard libraries. It provides a reusable framework for preparing raw datasets into a format suitable for analysis and modeling. Using VS Code as the development environment makes it easy to edit, run, and maintain the pipeline.
 
+# Output
+![Image](https://github.com/user-attachments/assets/f294a249-aa99-401b-8e10-e3ee07558cc6)
+
